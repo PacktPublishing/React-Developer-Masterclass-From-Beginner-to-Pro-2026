@@ -1,0 +1,6 @@
+https://68e3726e8e14f4523dad6c49.mockapi.io/api/v1/products
+
+
+npm install @tanstack/react-query @reduxjs/toolkit react-redux
+
+npm install axios
